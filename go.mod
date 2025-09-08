@@ -1,4 +1,4 @@
-module proxycnf
+module github.com/vczyh/proxycnf
 
 go 1.23
 
