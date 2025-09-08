@@ -2,7 +2,7 @@ package proxycnf
 
 import (
 	"fmt"
-	"proxycnf/parsing"
+	"github.com/vczyh/proxycnf/parsing"
 	"slices"
 	"strconv"
 )

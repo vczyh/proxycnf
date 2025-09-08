@@ -3,7 +3,7 @@ package proxycnf
 import (
 	"fmt"
 	"github.com/antlr4-go/antlr/v4"
-	"proxycnf/parsing"
+	"github.com/vczyh/proxycnf/parsing"
 	"strconv"
 	"strings"
 )
